@@ -1,7 +1,7 @@
 # Location Changer
 
 It automatically changes OS X’s [network location](https://support.apple.com/en-us/HT202480)
-based on the name of Wi-Fi network and runs arbitrary scrips when it happens. This script is configured for Posten Norge and it's VPN, but feel free to edit it to your use.
+based on the name of Wi-Fi network and runs arbitrary scripts when it happens. This script is configured for Posten Norge and it's VPN, but feel free to edit it to your use.
 
 ## Installation & Update
 
@@ -18,7 +18,7 @@ It will ask you for your password to install `locationchanger` to the */usr/loca
 
 Plug and play, everything is set up. If you connect to "posten.ikt" you'll get "Automatic" network location, all other networks will be set to "No Proxy". If you're on "No Proxy" and connect with Cisco AnyConnect to Posten VPN, it'll detect this and puts you to "Automatic".
 
-Note: The VPN connection might require a few whiles before it's ready to go. It'll connect, then reconnect again with correct network location. It should be all ready to go once it says "Connected to Posten" the 2nd time.
+*Note: The VPN connection might require a few whiles before it's ready to go. It'll connect, then reconnect again with correct network location. It should be all ready to go once it says "Connected to Posten" the 2nd time.*
 
 ## Advanced usage
 
