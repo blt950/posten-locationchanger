@@ -3,6 +3,8 @@
 It automatically changes OS X’s [network location](https://support.apple.com/en-us/HT202480)
 based on the name of Wi-Fi network and runs arbitrary scripts when it happens. This script is configured for Posten Norge and it's VPN, but feel free to edit it to your use.
 
+This script is based on [work by eprev](https://github.com/eprev/locationchanger)
+
 ## Installation & Update
 
 Before you start, you need to create a network location with the name "No Proxy" (case-senstive and normal space), this can be done in your MacOS Preferences.
